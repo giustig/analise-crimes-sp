@@ -7,4 +7,4 @@ O arquivo `SPDadosCriminais_2024.csv` é grande demais para o GitHub, então est
 O notebook está preparado para **ler o CSV diretamente via link**, sem necessidade de download manual.
 
 📎 Link direto usado:
-https://drive.google.com/uc?export=download&id=1bKXYz8j8hnRrFZlGhmM8dqfenfeKL4go
+https://drive.google.com/uc?export=download&id=1jkfqXaS6Ah3k5GP-pajgBaq7CBKSvkIt
